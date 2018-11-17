@@ -31,6 +31,9 @@ In Linux, it is located in:
 Make the following changes in your php.ini file:
 (Search for the following and make necessary changes)
 
+# librehalth toolkit installation
+Refer https://www.youtube.com/watch?v=xqwgr-1DJAs
+
 ```
 max_execution_time = 600
 max_input_time = 600
